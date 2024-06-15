@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  width: 150px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.button {
+  width: 160px;
+  height: 40px;
+  background-color: #382f5a;
+  color: #d4d2db;
+  border-color: #d4d2db;
+  border-radius: 5px;
+}
